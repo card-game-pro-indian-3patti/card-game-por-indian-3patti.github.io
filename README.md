@@ -1,1 +1,1 @@
-# card-game-por-indian-patti.github.io
+# card-game-por-indian-3patti.github.io
